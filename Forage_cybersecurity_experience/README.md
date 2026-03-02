@@ -14,7 +14,7 @@ A write-up analysing vulnerabilities across several simulated web challenges, in
 
 An assessment of a simulated malware/phishing incident, outlining identification, containment, eradication, and recovery steps.
 
-### **Passphrase Security Infographic**
+#### **Passphrase Security Infographic**
 
 A simple, user-focused infographic explaining the importance of strong passphrases and how to create them.
 
