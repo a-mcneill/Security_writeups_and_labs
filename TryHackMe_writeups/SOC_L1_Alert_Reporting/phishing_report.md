@@ -32,4 +32,4 @@ The combination of failed authentication checks, a compressed rar file, and crea
 
 ## Screenshot
 
-![Phishing Alert Screenshot}(../screenshots/THM_Phishing_Alert.png)
+![Phishing Alert Screenshot](../screenshots/THM_Phishing_Alert.png)
