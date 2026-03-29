@@ -19,7 +19,7 @@ The email was classified as phishing by the post-delivery automated analysis. Th
 ## Key Indicators
 
 - **Attachment:** 'REPORT.rar' - Commonly used in malware delivery.
-- **Body Keywords:** "urgent-notice", "download the report", "600% price increase"
+- **Body Keywords:** "urgent-notice", "download the report", "600% price increase".
 - **Authentification:**  SPF/Fail, DKIM/Fail
 
 ---
@@ -27,6 +27,16 @@ The email was classified as phishing by the post-delivery automated analysis. Th
 ## Assessment
 
 The combination of failed authentication checks, a compressed rar file, and creation of sense of urgency, led to the assessment that the Microsoft support email had been spoofed and that the email was a phishing attempt.
+
+---
+
+## L1 Analyst Escalation Notes
+
+- Alert validated as True Positive.
+- Indicators collected and documented.
+- Suspicious attachment present.
+- Authentication checks failed.
+- Escalate to L2 analyst for deeper investigation.
 
 ---
 
