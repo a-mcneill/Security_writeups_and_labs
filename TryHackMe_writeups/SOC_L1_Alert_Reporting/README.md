@@ -1,6 +1,6 @@
-## SOC L1 Alert Reporting - TryHackMe Room
+## Security Analysis & Incident Reporting - TryHackMe
 
-This repository contains two SOC Level 1 alert reports created as part of hands-on defensive security practice. Each report is based on the simulated alerts from the TryHackMe platform and demonstrates the workflow, analysis, and documentation expected from an L1 analyst in a real Security Operations Centre.
+This repository contains two SOC alert reports created as part of hands-on defensive security practice. Each report is based on the simulated alerts from the TryHackMe platform and demonstrates the workflow, analysis, and documentation expected from an L1 analyst in a real Security Operations Centre.
 
 The goal of this repository is to showcase:
 - Ability to triage and validate alerts.
