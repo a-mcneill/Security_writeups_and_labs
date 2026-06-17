@@ -1,4 +1,4 @@
-# Phishing Email Alert Report - TryHackMe SOC L1
+# Phishing Email Alert Report - TryHackMe
 
 **Date/Time:** 19:25, 27th March 2025
 **Receipient:** Eddie Huffman (IT Manager)
