@@ -1,4 +1,4 @@
-# Spike of Domain Discovery Commands - TryHackMe SOC L1
+# Spike of Domain Discovery Commands - TryHackMe
 
 **Date/Time:** 19:56, 27th March 2025
 **Host:** DMZ-MSEXCHANGE-2013
